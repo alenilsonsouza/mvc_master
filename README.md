@@ -8,6 +8,9 @@ Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 
 Depois é só aguardar.
 
+## Banco de Dados
+A base de dados do projeto está na pasta *#BD*
+
 ## Configuração
 Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
 
@@ -15,6 +18,7 @@ As configurações de Banco de Dados e URL estão no arquivo *src/Config.php*
 
 É importante configurar corretamente a constante *BASE_DIR*:
 > const BASE_DIR = '/**PastaDoProjeto**/public';
+
 
 ## Uso
 Você deve acessar a pasta *public* do projeto.
