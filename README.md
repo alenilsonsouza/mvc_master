@@ -9,7 +9,7 @@ Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 Depois é só aguardar.
 
 ## Banco de Dados
-A base de dados do projeto está na pasta *#BD*
+A base de dados do projeto está na pasta **#BD**
 
 ## Configuração
 Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
